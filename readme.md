@@ -433,6 +433,7 @@ Automatically and regularly render your deployed website to HTML.
  - [react-snap](https://github.com/stereobooster/react-snap#readme) - Uses Puppeteer to crawl & render your pages.
  - [prep](https://github.com/prismagraphql/prep#readme) - Uses Chromeless to crawl & render your pages.
  - [SSG webpack plugin](https://github.com/markdalgleish/static-site-generator-webpack-plugin#readme) - Directly render your pages to HTML. You provide render functions and routes. All routes are rendered at build-time using the render functions you provided. Also has a crawl mode to use a headless browser to automatically discover your website's URLs.
+ - [render-it](https://github.com/bernabe9/render-it#readme) - Just prerender what you need. Uses Puppeteer and JSDOM to render SPA and non-SPA pages.
 
 
 <!---
